@@ -1,0 +1,6 @@
+@BookmasterServer_HostAddress = http://localhost:5215
+
+GET {{BookmasterServer_HostAddress}}/authors/
+Accept: application/json
+
+###
